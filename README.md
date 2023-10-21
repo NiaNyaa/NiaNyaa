@@ -1,6 +1,9 @@
 # Selamat Datang Di Github Saya 👋
 Disini adalah kumpulan ilmu yang saya dapatkan saat bejalar otodidak
 semua ilmu disini saya dapatkan dari kegabutan saya
+```
+welcome
+```
 
 <!--
 **NiaNyaa/NiaNyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
