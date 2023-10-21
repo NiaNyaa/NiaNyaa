@@ -1,4 +1,4 @@
-# Selamat Datang Di Github Saya 👋
+# Selamat Datang
 Disini adalah kumpulan ilmu yang saya dapatkan saat bejalar otodidak
 semua ilmu disini saya dapatkan dari kegabutan saya
 ```
