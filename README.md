@@ -2,7 +2,7 @@
 Disini adalah kumpulan ilmu yang saya dapatkan saat bejalar otodidak
 semua ilmu disini saya dapatkan dari kegabutan saya
 ```
-Hanya seorang pemula yang masih harus banyak belajar
+seorang pemula yang masih harus banyak belajar
 ```
 
 <!--
