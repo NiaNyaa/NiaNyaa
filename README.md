@@ -3,7 +3,7 @@ Disini adalah kumpulan ilmu yang saya dapatkan saat bejalar otodidak
 semua ilmu disini saya dapatkan dari kegabutan saya
 ```
 berusaha memahami semua bahasa pemograman di dunia ini wkwk :v
-akunku kedua https://github.com/muhikhsanh
+akunku kedua (https://github.com/muhikhsanh)
 ```
 
 <!--
